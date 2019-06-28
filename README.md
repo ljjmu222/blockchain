@@ -72,6 +72,10 @@ https:ssl证书
 - 基于智能合约
 - 去中心化的游戏规则（代码规则透明、运营去中心化、）
 - 代币激励（原生代币coin、合约代币token）通过钱包转账
+#### 共识算法
+- pos
+- - [共识算法存在的问题](https://www.jinse.com/blockchain/369478.html)
+- - [什么是staking经济](https://www.jinse.com/news/blockchain/384604.html)
 
 
 
